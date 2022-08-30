@@ -1,5 +1,5 @@
 <template>
-  <CurrencyConverter msg="Welcome to Your Vue.js App" />
+  <CurrencyConverter />
 </template>
 
 <script>
